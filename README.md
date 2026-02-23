@@ -1,49 +1,10 @@
-# Starlight Starter Kit: Basics
+# Design Thinking: The Ultimate Guide
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+- **Get excited** when you discover that you **don**'**t need to start from scratch** to use the secret recipes that empower companies like Apple and Google to **shape the future**. You just need a structure and proven methods to optimize what you already do. As AI becomes part of your day-to-day workflows, your ability to guide it with **timeless human-centered skills** such as strategic thinking, creativity, and empathy for real users is what **turns AI into your superpower** and delivers meaningful results.
+- Build on your existing creativity, problem-solving, and people skills to learn the powerful 5-stage method called Design Thinking. It's one of the key drivers behind Apple and Google's **continuous innovation** and provides a clear, structured way to solve real-world problems. You've already got the instincts, so it's easy to learn the method. 
+- **Make yourself invaluable** with hands-on skills in Design Thinking. Design Thinking can help you break into User Experience Design, product design, and tech. It's widely applicable, impactful, and fun! Use your skills to improve customer support processes, create new products, and even tackle big challenges like climate change. This human-centered approach is a key driver of business success because it guides you to systematically understand and address what your users really need and want. That's why Design Thinking skills can help you **increase sales**, **keep customers loyal**, and turn them into **powerful advocates** for your company.
+- **Gain confidence and credibility** as you **effortlessly apply methods** from all five stages of the Design Thinking process. You'll be guided to build empathy and gather insights into people's habits through user interviews. 
+- Use our **downloadable templates** to create affinity diagrams, empathy maps, and actionable "How Might We" questions. Develop solutions as you apply ideation and innovation methods. Create a paper prototype early and fast, then test and optimize your prototype to ensure that your users love it. **More love, more impact, greater salary potential.** 
+- Apply your new skills in an optional project where you'll design and test a user-centered experience that's perfect for your **portfolio** **and career growth**. Master Design Thinking to amplify your uniquely human strengths like empathy, intuition, and creativity, and **confidently stay in demand** as AI reshapes how teams work.
 
-```
-pnpm create astro@latest -- --template starlight
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Link: https://www.interaction-design.org/courses/design-thinking-the-ultimate-guide
